@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints/
+**/.idea/
+**/*.zip
+**/*.png
+**/.vscode/
+**/*.xlsx/
+**/*.csv/
+**/__pycache__/
+**/sudoku_dataset/
